@@ -6,8 +6,6 @@ fruits = ["사과", "바나나", "포도"]
 for i in fruits:
     print(i)
 
-
-
 #형식 : for 변수 in range(시작,끝,간격)
 #0부터 4까지 출력
 for i in range(5):
